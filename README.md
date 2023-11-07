@@ -3,6 +3,7 @@
 
 This is a private voting system that allows users to cast their votes anonymously and securely using zero-knowledge cryptography. It is built using the [Aleo platform] and the [Leo programming language].
 
+# Discord : 0xprtk.eth
 ## Features
 
 - Supports multiple candidates and ranked-choice voting
